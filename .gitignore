@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller temporary build artifacts
+build/
+*.manifest
+*.spec
+
+# Local user session
+.alpha_session.json
+error_log.txt
