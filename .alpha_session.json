@@ -1,0 +1,11 @@
+{
+  "role": "admin",
+  "name": "ROOT_ADMIN",
+  "roll": "ADMIN_001",
+  "branch": "MAINFRAME",
+  "university": "CENTRAL SECURITY",
+  "password": "",
+  "phone": "N/A",
+  "api_key": "",
+  "startup_mode": "MANUAL_OVERRIDE"
+}
